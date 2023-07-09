@@ -29,10 +29,23 @@ Curso php básico:
     ✔ 02:14:16 - Loopings - do while @done(23-07-05 22:55)
     ✔ 02:16:08 - Foreach @done(23-07-05 23:00)
     ✔ 02:17:59 - Continue e break @done(23-07-05 23:15)
-    ☐ 02:22:17 - Funções
-    ☐ 02:29:50 - Closures
-    ☐ 02:37:10 - Callbacks
-    ☐ 02:56:58 - Verificar se variável existe
+    ✔ 02:22:17 - Funções @done(23-07-08 17:51)
+    ✔ 02:29:50 - Closures @done(23-07-08 18:04)
+    ✔ 02:37:10 - Callbacks @done(23-07-08 23:58)
+        ✔ O que é um callback @done(23-07-08 21:47)
+            ✔ Funções passadas como parâmetro para outras funções(Exemplo 1) @done(23-07-08 21:47)
+        ✔ Verificar se é callback com is_callable (Exemplo 2) @done(23-07-08 23:03)
+        ✔ call_user_func @done(23-07-08 23:13)
+            ✔ Chama uma função e seu parâmetro (Exemplo 3) @done(23-07-08 23:13)
+            ✔ Chamar primeiro parâmetro com array caso for um objeto com método estático ou não e queira usar um método dele (Exemplo 4) @done(23-07-08 23:32)
+        ✔ call_user_func dentro de outras funções (Exemplo 5) @done(23-07-08 23:36)
+        ✔ __invoke pode ser passado como callback (Exemplo 6) @done(23-07-08 23:49)
+            ✔ Instanciar objeto e passar como callback para call_user_func ou para outra função @done(23-07-08 23:53)
+        ✔ call_user_func_array (Exemplo 7) @done(23-07-08 23:57)
+            ✔ Passa parâmetros por array @done(23-07-08 23:57)
+        ✔ Métodos de objetos podem ser passadoscomo callback @done(23-07-08 23:57)
+        ✔ Usar uma closure como callback @done(23-07-08 23:57)
+    ✔ 02:56:58 - Verificar se variável existe @done(23-07-09 00:15)
     ☐ 02:59:36 - Escopo e variável global
     ☐ 03:02:04 - Super Globais
     ☐ 03:07:08 - Cookies
